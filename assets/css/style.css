@@ -17,6 +17,25 @@ a {
 p {
     font-size: 16px;
 }
+/* Website Main Image CSS */
+.hero {
+    height: 800px;
+    width: 100%;
+    margin-bottom: 25px;
+    background-image: url("../images/digital-marketing-meeting.jpg");
+    background-size: cover;
+    background-position: center;
+}
+/* floating elements to the left and adding the marigin to the right */
+.float-left {
+    float: left;
+    margin-right: 25px;
+}
+/* floating elements to the right and adding the marigin to the left */
+.float-right {
+    float: right;
+    margin-left: 25px;
+}
 /* Header CSS start */
 .header {
     padding: 20px;
@@ -48,26 +67,6 @@ p {
     margin-left: 25px;
 }
 /* End Of header css  */
-
-/* Website Main Image CSS */
-.hero {
-    height: 800px;
-    width: 100%;
-    margin-bottom: 25px;
-    background-image: url("../images/digital-marketing-meeting.jpg");
-    background-size: cover;
-    background-position: center;
-}
-/* floating elements to the left and adding the marigin to the right */
-.float-left {
-    float: left;
-    margin-right: 25px;
-}
-/* floating elements to the right and adding the marigin to the left */
-.float-right {
-    float: right;
-    margin-left: 25px;
-}
 
 /* .benefits CSS START  */
 
