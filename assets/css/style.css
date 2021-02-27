@@ -68,6 +68,36 @@ p {
 }
 /* End Of header css  */
 
+/* .content CSS START  */
+/* setting the width and display of the .content section  */
+.content {
+    width: 75%;
+    display: inline-block;
+    margin-left: 20px;
+}
+/* formating for all divs in content */
+.content div {
+    margin-bottom: 20px;
+    padding: 50px;
+    height: 300px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: #0072bb;
+    color: #ffffff;
+}
+/* setting the max-height for all 
+img elements in divs of content */
+.content div img {
+    max-height: 200px;
+}
+/* setting the margin-bottom and font-size for all 
+h2 elements in divs of content */
+.content div h2 {
+    margin-bottom: 20px;
+    font-size: 36px;
+}
+/* .content CSS END */
+
+
 /* .benefits CSS START  */
 
 /* setting the .benefits section with margin, floating to the right of the content section  */
@@ -100,36 +130,6 @@ img elements in divs of .benefits */
     max-width: 150px;
 }
 /* .benefits CSS END */
-
-
-/* .content CSS START  */
-/* setting the width and display of the .content section  */
-.content {
-    width: 75%;
-    display: inline-block;
-    margin-left: 20px;
-}
-/* formating for all divs in content */
-.content div {
-    margin-bottom: 20px;
-    padding: 50px;
-    height: 300px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
-    color: #ffffff;
-}
-/* setting the max-height for all 
-img elements in divs of content */
-.content div img {
-    max-height: 200px;
-}
-/* setting the margin-bottom and font-size for all 
-h2 elements in divs of content */
-.content div h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
-/* .content CSS END */
 
 /* .footer CSS START */
 /* formating for the footer of the website */

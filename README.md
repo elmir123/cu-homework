@@ -22,6 +22,10 @@ I used the git command to create few commits and pushes of my code to Github
 
 After the "code restructuring” the website layout and features are unchanged
 
+The following image demonstrates the web application's appearance:
+
+![The updated page has working links and code has been restractured.](./assets/images/app-screenshot.png)
+
 To view the final website please use this link:
 
 https://elmir123.github.io/cu-homework/
